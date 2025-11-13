@@ -24,7 +24,8 @@ Learn to scan local networks and identify open ports.
 
 ## Output
 
-<img width="942" height="652" alt="Screenshot 2025-11-13 224402" src="https://github.com/user-attachments/assets/83ec462a-37d2-4cee-bd16-33a3b399ed28" />
+<img width="868" height="632" alt="image" src="https://github.com/user-attachments/assets/ba5363d9-22d2-4125-b829-f082ed9c0278" />
+
 
 <img width="892" height="802" alt="image" src="https://github.com/user-attachments/assets/5d529bbc-c7ae-4aae-aa8e-b15a5a6ba31f" />
 
