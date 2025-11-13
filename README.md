@@ -18,7 +18,7 @@ Learn to scan local networks and identify open ports.
 ## Steps
 1. Installed Nmap
 2. Found local IP range using `ipconfig`
-3. Ran `nmap -sS (Ip addres)
+3. Ran `nmap -sS (Ip address)
 4. Saved output 
 5. Analyzed open ports and services
 
